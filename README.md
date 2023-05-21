@@ -1,6 +1,6 @@
 # Hi, I am Lucky Alade 👋.
 
-<img height="160" align="right" src="https://github-readme-stats.vercel.app/api?username=luckyalade&count_private=true&include_all_commits=true" />
+<img height="168" align="right" src="https://github-readme-stats.vercel.app/api?username=luckyalade&count_private=true&include_all_commits=true" />
 
 Here are some surface facts about me:
 
