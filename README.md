@@ -1,7 +1,8 @@
 # Hi, I am Lucky Alade 👋.
 
+## Thanks a lot for stopping by.
 
-Some surface facts about me:
+Here are some surface facts about me:
 
 - 🔭 I’m currently learning to becoming a Software Engineer at ALX.
 - 🌱 I was formerly into broadcast journalism.
