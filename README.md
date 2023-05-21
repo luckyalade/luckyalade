@@ -1,9 +1,7 @@
 # Hi, I am Lucky Alade 👋.
 
-<img src=https://github.com/luckyalade/luckyalade/assets/122607649/cc5ce272-f376-4357-9ab2-e2874d276a95 height=330px width=100%>
 
-
-Some Surface Facts about me:
+Some surface facts about me:
 
 - 🔭 I’m currently learning to becoming a Software Engineer at ALX.
 - 🌱 I was formerly into broadcast journalism.
