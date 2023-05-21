@@ -6,7 +6,7 @@ Here are some surface facts about me:
 - 🌱 I was formerly into broadcast journalism.
 - 👯 I’m looking to collaborate on pretty much anything width anyone.
 - 💬 Ask me anything about html & css
-- 😄 Pronouns: he/his please. I'm stright as hell.
+- 😄 Pronouns: he/his please. I'm hetero.
 - ⚡ Fun fact: Love coding.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luckyaladeprop&label=Profile%20views&color=0e75b6&style=flat" alt="ismaelkiprop" /> </p>
