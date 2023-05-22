@@ -6,7 +6,7 @@ Here are some surface facts about me:
 
 - 🔭 I’m currently learning to becoming a Software Engineer at ALX.
 - 🌱 Formerly into broadcast journalism.
-- 👯 I’m looking to collaborate on pretty much any tech project with anyone.
+- 👯 I’m looking to collaborate with anyone on pretty much any tech project.
 - 💬 Ask me anything about html & css
 - 😄 Pronouns: he/his please. I'm hetero.
 - ⚡ Fun fact: Love coding.
