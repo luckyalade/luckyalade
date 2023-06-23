@@ -1,4 +1,4 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Welcome+To+My+Github+Profile;I+Hope+You+Enjoy+Your+Visit;My+Contact+Is+Below+If+We+Need+To+Discuss+Coding;)](https://git.io/typing-svg)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Welcome+To+My+Github+Profile!;Do+Enjoy+Your+Stay!;)](https://git.io/typing-svg)
 # Hi, I am Lucky Alade 👋.
 
 <img height="170" align="right" src="https://github-readme-stats.vercel.app/api?username=luckyalade&count_private=true&include_all_commits=true" />
