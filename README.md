@@ -1,9 +1,9 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=You+Are+Welcome+To+My+Github+Profile;My+Name+Is+Lucky+Alade;I+Am+Addicted+To+Coding;)](https://git.io/typing-svg)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Welcome+To+My+Github+Profile;I+Hope+You+Enjoy+Your+Visit;My+Contact+Is+Below+If+We+Need+To+Discuss+Coding;)](https://git.io/typing-svg)
 # Hi, I am Lucky Alade 👋.
 
 <img height="170" align="right" src="https://github-readme-stats.vercel.app/api?username=luckyalade&count_private=true&include_all_commits=true" />
 
-Here are some surface facts about me:
+Here are some surface info about me:
 
 - 🔭 I’m currently learning to becoming a Software Engineer at ALX.
 - 🌱 Formerly into broadcast journalism.
