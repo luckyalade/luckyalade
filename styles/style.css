@@ -1,0 +1,52 @@
+html {
+  background-color: rgb(211, 198, 198);
+  font-family: "Quicksand", sans-serif;
+  font-size: 15px;
+}
+
+#tj-img {
+  max-width: 100%;
+  margin: 0 auto;
+  display: block;
+  height: auto;
+}
+
+a[href] {
+  color: rgb(205, 8, 8);
+}
+
+strong {
+  font-family: "Pacifico", cursive;
+  color: brown;
+  font-weight: lighter;
+}
+
+a:hover {
+  color: black;
+}
+
+h1,
+h2 {
+  /* font-family: 'Open Sans', sans-serif; */
+  font-family: "Pacifico", cursive;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+ul {
+  /* text-align: justify; */
+  margin-left: 12px;
+}
+
+.end {
+  text-align: left;
+}
+
+@media screen and (max-width: 600px) {
+  .end {
+    text-align: center;
+  }
+}
