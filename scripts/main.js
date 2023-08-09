@@ -1,6 +1,6 @@
 const getUserName = document.querySelector("strong");
 
-getUserName.textContent = prompt("Please enter your name: ");
+getUserName.textContent = prompt("Please enter your first name: ");
 
 let storedUserName = getUserName.textContent;
 
