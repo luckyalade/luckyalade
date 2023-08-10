@@ -45,6 +45,10 @@ ul {
   text-align: left;
 }
 
+summary {
+  font-family: "Pacifico", cursive;
+}
+
 @media screen and (max-width: 600px) {
   .end {
     text-align: center;
