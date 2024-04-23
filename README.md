@@ -5,10 +5,10 @@
 
 Here are some surface info about me:
 
-- 🔭 I’m currently learning to becoming a Software Engineer.
+- 🔭 On track to becoming a FullStack Software Engineer.
 - 🌱 Formerly a broadcast journalist.
-- 👯 I’m looking to collaborate with anyone on pretty much any tech project.
-- 💬 Opening to any chat about programming
+- 👯 Looking to collaborate with anyone on pretty much any tech project.
+- 💬 Open to chat about any programming topic.
 - 😄 Pronouns: he/his please. I'm hetero.
 - ⚡ Fun fact: Love coding.
 
