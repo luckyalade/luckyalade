@@ -26,6 +26,13 @@ Here are some surface info about me:
   <img src="https://img.shields.io/badge/-API-009688?style=flat-square&logo=API&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-417E38?style=flat-square&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=Tailwind%20CSS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+
+
+
+
 
 </p>
  
