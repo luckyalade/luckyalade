@@ -5,9 +5,9 @@
 
 Here are some surface info about me:
 
-- 🔭 On track to becoming a FullStack Software Engineer.
+- 🔭 A Software Engineer and FullStack Web Developer.
 - 🌱 Formerly a broadcast journalist.
-- 👯 Looking forward to collaborate with anyone on pretty much any tech project.
+- 👯 Looking forward to collaboratibg with anyone on any tech project.
 - 💬 Open to chat about any programming topic.
 - 😄 Pronouns: he/his please. I'm hetero.
 - ⚡ Fun fact: Love coding.
