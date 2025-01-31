@@ -7,7 +7,7 @@ Here are some surface info about me:
 
 - 🔭 A Software Engineer and FullStack Web Developer.
 - 🌱 Formerly a broadcast journalist.
-- 👯 Looking forward to collaboratibg with anyone on any tech project.
+- 👯 Looking forward to collaborating with anyone on any tech project.
 - 💬 Open to chat about any programming topic.
 - 😄 Pronouns: he/his please. I'm hetero.
 - ⚡ Fun fact: Love coding.
